@@ -1,4 +1,4 @@
-# GitHub Developer Analysis - Delhi Region 🚀
+# GitHub Developer Analysis - Delhi 100
 
 ## Project Overview
 - This project uses the GitHub API to scrape users in Delhi with over 100 followers, fetching their profiles and repository information.
@@ -12,7 +12,7 @@ I used the GitHub API to query users in the city of Delhi who have more than 100
 
 ### Data Collection Process
 
-![alt text](https://github.com/IITM-007/Project1/main/img.png "img")
+![alt text](https://github.com/IITM-007/Project1/blob/main/img.png)
 
 1. Start → GitHub API Request: The process starts with a request to the GitHub API.
 2. GitHub API Request → Query Users in Delhi with >100 Followers: It queries users based on city and follower count.
