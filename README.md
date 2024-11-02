@@ -11,5 +11,6 @@ One interesting finding was that many repositories with high stars and followers
 ### Recommendation for Developers
 Based on the analysis, developers can enhance the quality of collaboration by enabling wikis and using project boards. These features help with knowledge sharing and structured development processes, especially for larger teams and open-source projects.
 
-
+- **gitscrap.py was made for scrapping the required data from the github api.**
+- **1-16.py were made for solving the respected questions**
 
